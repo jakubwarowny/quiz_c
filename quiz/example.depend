@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1687996621 source:c:\dev\c++\example\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+	<string>
+
+1687996621 source:c:\dev\c++\quiz\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+	<string>
+
